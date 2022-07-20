@@ -1,16 +1,16 @@
 # SnBatchProcessor
 
-Demo of basic functionality
+Demo of 0.4.0 
 
-https://youtu.be/AdAT1q4QQQo
+https://youtu.be/Y8r33wX0F5M
 
 Demo how it run in Docker
 
 https://youtu.be/-huNqyeqFBU
 
-Demo of 0.4.0 
+Demo of basic functionality
 
-https://youtu.be/Y8r33wX0F5M
+https://youtu.be/AdAT1q4QQQo
 
 ## Install
 
