@@ -1,0 +1,1 @@
+# SnBatchProcessor.Bin
